@@ -1,4 +1,11 @@
-The code searches AI related keywords from the military project descriptions and calculates the aggregated statistics of the AI-related projects. The initial data and resulting tables are saved at: gs://cset_financial_data/LAWS
+The code searches AI related keywords from the military project descriptions and calculates the aggregated statistics of the AI-related projects.
+
+
+Publications using this data:
+
+[U.S. Military Investments in Autonomy and AI: Executive Summary](https://cset.georgetown.edu/research/u-s-military-investments-in-autonomy-and-ai-executive-summary/)
+
+ The initial data and resulting tables are saved at: gs://cset_financial_data/LAWS
 
 Initial data: MASTER.csv <br>
 Recoded data with Updated_master.csv <br>
