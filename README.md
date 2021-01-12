@@ -5,6 +5,10 @@ Publications using this data:
 
 [U.S. Military Investments in Autonomy and AI: Executive Summary](https://cset.georgetown.edu/research/u-s-military-investments-in-autonomy-and-ai-executive-summary/)
 
+[U.S. Military Investments in Autonomy and AI: A Budgetary Assessment - Center for Security and Emerging Technology](https://cset.georgetown.edu/research/u-s-military-investments-in-autonomy-and-ai-a-budgetary-assessment/)
+
+[U.S. Military Investments in Autonomy and AI: A Strategic Assessment - Center for Security and Emerging Technology](https://cset.georgetown.edu/research/u-s-military-investments-in-autonomy-and-ai-a-strategic-assessment/)
+
  The initial data and resulting tables are saved at: gs://cset_financial_data/LAWS
 
 Initial data: MASTER.csv <br>
